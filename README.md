@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Lokesh Jha
 - 👀 I’m interested in MERN Full stack.
-- 🌱 I’m currently learning Node, React and DSA.
-- 💞️ I have learned HTMl, CSS, JS, SQL, MVC, Java, J2EE, Spring Framework ...
+- 🌱 I’m currently learning React.
+- 💞️ I have Experince in: <br>
+       Tech: Node.js, Express, HTML, CSS, JS, Java <br>
+       Database: MySQL (with Sequalize), MongoDB (with Mongooes) <br>
+       Tools: Jenkins, Git, AWS <br>
 - Reach me @
 - Twitter - https://twitter.com/Lokesh1jha?t=hFcodgLVeowJdjZtkn4ppg&s=08 
 - Gmail - lokesh1jha@gmail.com
