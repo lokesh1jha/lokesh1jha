@@ -10,9 +10,9 @@
 
 ## Experience & Expertise
 
-- Tech Stack: Node.js, Express, HTML, CSS, JavaScript, Java
-- Databases: MySQL (with Sequelize), MongoDB (with Mongoose)
-- Tools: Jenkins, Git, AWS
+- Tech Stack: Node.js, Express, HTML, CSS, JavaScript, Java, Solidity, Typescript, GO
+- Databases: MySQL (with Sequelize), MongoDB (with Mongoose), Postgres
+- Tools: Jenkins, Git, AWS, GCP
 
 ## Current Endeavors
 
