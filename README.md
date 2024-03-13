@@ -13,6 +13,7 @@
 - Tech Stack: Node.js, Express, HTML, CSS, JavaScript, Java, Solidity, Typescript, GO, Rust
 - Databases: MySQL (with Sequelize), MongoDB (with Mongoose), Postgres
 - Tools: Jenkins, Git, AWS, GCP
+- Blockchain - Solidity, Ether.js, Hardhat, Remix IDE
 
 ## Current Endeavors
 
