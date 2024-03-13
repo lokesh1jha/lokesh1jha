@@ -5,12 +5,12 @@
 ## About Me
 
 - 👀 I’m passionate about MERN Full stack development.
-- 🌱 Currently, I'm diving deep into React to further enhance my skills.
+- 🌱 Currently, I'm diving deep into Blockchain Development and React to further enhance my skills.
 - 💼 As a senior software engineer, I specialize in backend technologies and am dedicated to ensuring data security and integrity.
 
 ## Experience & Expertise
 
-- Tech Stack: Node.js, Express, HTML, CSS, JavaScript, Java, Solidity, Typescript, GO
+- Tech Stack: Node.js, Express, HTML, CSS, JavaScript, Java, Solidity, Typescript, GO, Rust
 - Databases: MySQL (with Sequelize), MongoDB (with Mongoose), Postgres
 - Tools: Jenkins, Git, AWS, GCP
 
